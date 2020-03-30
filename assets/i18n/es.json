@@ -1,0 +1,62 @@
+{
+
+    "app": {
+        "par1": "Consola de navegación"
+    },
+
+    "terminal": {
+        "par1": "Bienvenido a yvesnf.dev v0.1.",
+        "par2": "Esto es la consola del sistema:",
+        "par3": "utiliza --ayuda para ver las opciones.",
+        "par4": "--ayuda",
+        "par5": "Para navegar entre las distintas secciones:",
+        "par6": "comando:",
+        "par7": "Comando no reconocido: utiliza",
+        "availablePages": ["casa", "biografía", "educación", "experiencia", "tecnologías"]
+    },
+
+    "home": {
+        "developer": "#desarrollador",
+        "frontEnd": "#front-end"
+    },
+
+    "bio": {
+        "title": "Bio",
+        "bio_par1": "Antes de nada, decirte que es un placer el tenerte curioseando en este sistema. Ahora deja que me presente:",
+        "bio_par2": "Me llamo Yves Navarro, nací en el 87 y soy programador, desarrollador, developer o como sea que le llames tu a esta profesión. Desde hace un tiempo que estoy procurando enfocarme en el área del Front-end, la verdad es que me gusta trastear con frameworks modernos para Javascrip ya que me siento muy cómodo utilizando esta tecnología. También tengo experiencia en Back-end desarrollando API's REST en C# junto con bases de datos SQL SERVER, pero, no me atrevería a decir que soy FullStack en ninguna tecnología ya que en primer lugar, he pasado la gran parte del tiempo de estos últimos años desarrollando código en el front con AngularJS y en segundo lugar porque pienso que para auto denominarte Full-Stack, tienes que estar muy seguro de ello y es por este motivo que a día de hoy me estoy esforzando en ampliar mis conocimientos hasta un nivel me permita poder decir de forma segura que soy Full-Stack en algún conjunto de tecnologías.",
+        "bio_par3": "Como has podido ver, he desarrollado este sitio web para que transmita un look & feel retro utilizando estilos, tipografías y demás como si estuviéramos utilizando una antigua terminal ya que mi pasión por la tecnología empezó en cuando mis padres metieron en casa nuestro primer ordenador, una maquina con Windows 98 con la que pase muchas horas realizando pequeños experimentos y esta web ha sido una buena escusa para poder rendir un pequeño homenaje a esa época que tanto me marcó. Ah!, por cierto, creo que las películas de finales de los 80 y principios de los 90 como Terminator 2, Juegos de guerra, Regreso al futuro y un largo etcétera que veía de pequeño, también tuvieron algo que ver en que hoy en día me flipe todo lo que tenga un aire retro-geek :)"
+    },
+
+    "education": {
+        "title": "Educació",
+        "job1": {
+            "title": "[de 2018 hasta hoy] - Grado en Ingeniería informática",
+            "desc": "Actualmente me encuentro cursando este grado a distancia a través de la UOC y voy sin prisa pero sin pausa."
+        },
+        "job2": {
+            "title": "[de 2014 a 2015] - CFGS Desarrollo de aplicaciones web",
+            "desc": "Estudié este ciclo formativo de grado superior en Amposta (Tarragona) ya que quería enfocar mi carrera profesional hacia la programación. Al convalidar el primer año con los estudios de ASIX, acabé el ciclo en un año."
+        },
+        "job3": {
+            "title": "[de 2011 a 2013] - CFGS Administración de sistemas informáticos y redes",
+            "desc": "Estudié este ciclo formativo de grado superior en Amposta (Tarragona). Tengo muy buen recuerdo de esa época de estudio, entre otras cosas porque aprendí a utilizar sistemas Linux, lo cual hace que a día de hoy sea muy fan de estos sistemas."
+        }
+    },
+
+    "experience": {
+        "title": "Experiencia",
+        "experience1": {
+            "title": "[de 2106 hasta hoy] - DISI Servicios Informáticos",
+            "desc": "En DISI he estado trabajando mayoritariamente el área de Front-End desarrollando aplicaciones y/o WebApps de todo tipo utilizado AngularJS y Material Design (AngularJS Material Framework). También he utilizado C# para desarrollar API's Rest y SQL Server para diseño y construcción de las bases de datos."
+        }
+    },
+
+    "technologies": {
+        "title": "Tecnologias",
+        "par1": "En cuanto a tecnologías, últimamente estoy ocupando mi tiempo libre en aprender frameworks modernos para Javascript. Entre 2019 y principios de 2020 he estado muy volcado en Angular 8 y también he tenido el gusto de empezar a trastear con Google Firebase.",
+        "par2": "Entre mis planes para este 2020 están aprender Node.js y React.js, así que espero poner pronto sus respectivos iconos por aquí debajo :)",
+        "par3": "Bueno, aquí una va pequeña lista de las tecnologías más relevantes que utilizo y/o conozco:"
+    }
+
+
+}

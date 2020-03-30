@@ -1,0 +1,62 @@
+{
+
+    "app": {
+        "par1": "Consola de navegació"
+    },
+
+    "terminal": {
+        "par1": "Benvingut a yvesnf.dev v0.1.",
+        "par2": "Això és la consola de sistema:",
+        "par3": "utilitza --ajuda per veure les opcions.",
+        "par4": "--ajuda",
+        "par5": "Per navegar entre les diferents seccions:",
+        "par6": "comanda:",
+        "par7": "Comanda no reconegut: utilitza",
+        "availablePages": ["casa", "biografia", "educació", "experiència", "tecnologies"]
+    },
+
+    "home": {
+        "developer": "#desenvolupador",
+        "frontEnd": "#front-end"
+    },
+
+    "bio": {
+        "title": "Bio",
+        "bio_par1": "Abans de res, dir-te que és un plaer el tenir-te tafanejant en aquest sistema. Ara deixa que em presenti:",
+        "bio_par2": "Em dic Yves Navarro, vaig néixer al 87 i sóc programador, desenvolupador, developer o com sigui que li diguis tu a aquella professió. Des de fa un temps que estic procurant enfocar-me en l'àrea de l'Front-end, la veritat és que m'agrada trastejar amb frameworks moderns per Javascript ja que em sento molt còmode utilitzant aquesta tecnologia. També tinc experiència en Back-end desenvolupant API's REST en C# juntament amb bases de dades SQL SERVER, però, no m'atreviria a dir que sóc FullStack en cap tecnologia ja que en primer lloc, he passat la gran part de el temps d'aquests últims anys desenvolupant codi al front amb AngularJS i en segon lloc perquè penso que per a auto denominarte Full-Stack, has d'estar molt segur d'això i és per aquest motiu que a dia d'avui m'estic esforçant a ampliar els meus coneixements fins a un nivell em permeti poder dir de manera segura que sóc Full-Stack en algun conjunt de tecnologies.",
+        "bio_par3": "Com has pogut veure, he desenvolupat aquest lloc web perquè transmeti un look & feel retro utilitzant estils, tipografies i altres com si estiguéssim utilitzant una antiga terminal ja que la meva passió per la tecnologia va començar quan els meus pares van ficar a casa el nostre primer ordinador, una màquina amb Windows 98 amb la que m'hi vaig passar moltes hores realitzant petits experiments i aquesta web ha estat una bona excusa per poder retre un petit homenatge a aquesta època que tant em va marcar. Ah !, per cert, crec que les pel·lícules de finals dels 80 i principis dels 90 com Terminator 2, Jocs de guerra, Retorn a el futur i un llarg etcètera que veia de petit, també van tenir alguna cosa a veure en que avui en dia em flipi tot el que tingui un aire retro-geek :)"
+    },
+
+    "education": {
+        "title": "Educació",
+        "job1": {
+            "title": "[de 2018 fins avui] - Grau en Enginyeria informàtica",
+            "desc": "Actualment em trobo cursant aquest grau a distància a través de la UOC i vaig sense pressa però sense pausa."
+        },
+        "job2": {
+            "title": "[de 2014-2015] - CFGS Desenvolupament d'aplicacions web",
+            "desc": "Vaig estudiar aquest cicle formatiu de grau superior a Amposta (Tarragona) ja que volia enfocar la meva carrera professional cap a la programació. Al convalidar el primer any amb els estudis de ASIX, vaig acabar el cicle en un any."
+        },
+        "job3": {
+            "title": "[de 2011 a 2013] - CFGS Administració de sistemes informàtics i xarxes",
+            "desc": "Vaig estudiar aquest cicle formatiu de grau superior a Amposta (Tarragona). Tinc molt bon record d'aquella època d'estudi, entre d'altres coses perquè vaig aprendre a utilitzar sistemes Linux, la qual cosa fa que a dia d'avui sigui molt fan d'aquests sistemes."
+        }
+    },
+
+    "experience": {
+        "title": "Experiència",
+        "experience1": {
+            "title": "[de 2106 fins avui] - DISI Servicios Informáticos",
+            "desc": "A DISI he estat treballant majoritàriament a l'àrea de Front-End desenvolupant aplicacions i/o WebApps de tot tipus utilitzat AngularJS i Material Design (AngularJS Material Framework). També he utilitzat C# per desenvolupar API's Rest i SQL Server per a disseny i construcció de les bases de dades."
+        }
+    },
+
+    "technologies": {
+        "title": "Tecnologies",
+        "par1": "Pel que fa a tecnologies, últimament estic ocupant el meu temps lliure a aprendre frameworks moderns per Javascript. Entre 2019 i principis de 2020 he estat molt bolcat en Angular 8 i també he tingut el gust de començar a trastejar amb Google Firebase.",
+        "par2": "Entre els meus plans per a aquest 2020 estan aprendre NODE.JS i React.js, així que espero posar aviat les seves respectives icones per aquí sota :)",
+        "par3": "Bé, aquí una va petita llista de les tecnologies més rellevants que faig servir i/o conec:"
+    }
+
+
+}
