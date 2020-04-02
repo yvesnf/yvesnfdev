@@ -12,7 +12,9 @@
         "par5": "Per navegar entre les diferents seccions:",
         "par6": "comanda:",
         "par7": "Comanda no reconegut: utilitza",
-        "availablePages": ["casa", "biografia", "educació", "experiència", "tecnologies"]
+        "availablePages": ["casa", "biografia", "educació", "experiència", "tecnologies", "contacte"],
+        "par8": "email: yvesnf@gmail.com",
+        "par9": "tel: 622 94 43 54"
     },
 
     "home": {

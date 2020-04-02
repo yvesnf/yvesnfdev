@@ -12,7 +12,9 @@
         "par5": "Available commands:",
         "par6": "comand:",
         "par7": "Unrecognized command: use",
-        "availablePages": ["home", "biography", "education", "experience", "technologies"]
+        "availablePages": ["home", "biography", "education", "experience", "technologies", "contact"],
+        "par8": "email: yvesnf@gmail.com",
+        "par9": "phone: 622 94 43 54"
     },
 
     "home": {
