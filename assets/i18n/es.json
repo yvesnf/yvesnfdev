@@ -5,7 +5,7 @@
     },
 
     "terminal": {
-        "par1": "Bienvenido a yvesnf.dev v0.1.",
+        "par1": "Bienvenido a yvesnf.dev v1.0.0",
         "par2": "Esto es la consola del sistema:",
         "par3": "utiliza --ayuda para ver las opciones.",
         "par4": "--ayuda",
@@ -19,7 +19,10 @@
 
     "home": {
         "developer": "#desarrollador",
-        "frontEnd": "#front-end"
+        "senior": "senior",
+        "semi-senior": "semi-senior",
+        "frontEnd": "#front-end",
+        "backEnd": "#back-end"
     },
 
     "bio": {
@@ -55,8 +58,8 @@
 
     "technologies": {
         "title": "Tecnologias",
-        "par1": "En cuanto a tecnologías, últimamente estoy ocupando mi tiempo libre en aprender frameworks modernos para Javascript. Entre 2019 y principios de 2020 he estado muy volcado en Angular 8 y también he tenido el gusto de empezar a trastear con Google Firebase.",
-        "par2": "Entre mis planes para este 2020 están aprender Node.js y React.js, así que espero poner pronto sus respectivos iconos por aquí debajo :)",
+        "par1": "En cuanto a tecnologías, últimamente estoy ocupando mi tiempo libre en aprender frameworks modernos para Javascript. Desde mediados de 2019 y principios de 2020 he estado muy volcado en aprender Angular 8 y Node.js así como también he trasteado un poco con Google Firebase debido a la curiosidad por las arquitecturas Serverless.",
+        "par2": "Entre mis planes para este 2020 están enfocarme en React.js y GraphQL y si puedo, ver algo de AWS también, así que espero poner pronto sus respectivos iconos por aquí debajo :)",
         "par3": "Bueno, aquí una va pequeña lista de las tecnologías más relevantes que utilizo y/o conozco:"
     }
 

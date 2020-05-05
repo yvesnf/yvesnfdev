@@ -5,7 +5,7 @@
     },
 
     "terminal": {
-        "par1": "Benvingut a yvesnf.dev v0.1.",
+        "par1": "Benvingut a yvesnf.dev v1.0.0",
         "par2": "Això és la consola de sistema:",
         "par3": "utilitza --ajuda per veure les opcions.",
         "par4": "--ajuda",
@@ -19,7 +19,10 @@
 
     "home": {
         "developer": "#desenvolupador",
-        "frontEnd": "#front-end"
+        "senior": "senior",
+        "semi-senior": "semi-senior",
+        "frontEnd": "#front-end",
+        "backEnd": "#back-end"
     },
 
     "bio": {
@@ -55,8 +58,8 @@
 
     "technologies": {
         "title": "Tecnologies",
-        "par1": "Pel que fa a tecnologies, últimament estic ocupant el meu temps lliure a aprendre frameworks moderns per Javascript. Entre 2019 i principis de 2020 he estat molt bolcat en Angular 8 i també he tingut el gust de començar a trastejar amb Google Firebase.",
-        "par2": "Entre els meus plans per a aquest 2020 estan aprendre NODE.JS i React.js, així que espero posar aviat les seves respectives icones per aquí sota :)",
+        "par1": "Pel que fa a tecnologies, últimament estic ocupant el meu temps lliure en aprendre frameworks moderns per Javascript. Des de mitjans de 2019 i principis de 2020 he estat molt bolcat en aprendre Angular 8 i Node.js així com també he trastejat una mica amb Google Firebase a causa de la curiositat per les arquitectures Serverless.",
+        "par2": "Entre els meus plans per a aquest 2020 estan enfocar-me en React.js i GraphQL i si puc, veure una mica de AWS també, així que espero posar aviat les seves respectives icones per aquí sota :)",
         "par3": "Bé, aquí una va petita llista de les tecnologies més rellevants que faig servir i/o conec:"
     }
 
